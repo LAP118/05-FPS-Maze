@@ -1,5 +1,15 @@
-# Godot-3D-Template
+# 05-FPS-Maze
+3D Maze that also made me want to rip my hair out made in Godot for the class C220 Game Technology at Indiana University. 
 
-Godot Template for 3D Games
+Made on 4/9/22.
 
-Includes Keyboard mappings and Global.gd
+Description
+
+## Implementation
+Which features you included
+
+## References
+
+## Future Development
+
+## Created by
